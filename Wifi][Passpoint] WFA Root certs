@@ -1,0 +1,7 @@
+system/ca-certificates/ to store WFA root
+certificates and create a corresponding make file to transfer these to
+the device.
+70692526
+Test: Integration test and existing Unit tests
+Change-Id:
+I09373fd73437824f950afb3d8155be40b851c8f1
